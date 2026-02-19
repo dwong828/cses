@@ -2,8 +2,8 @@
 using namespace std;
 
 /*
-You are given all numbers between 1,2,\ldots,n except one. 
-Your task is to find the missing number.
+ You are given all numbers between 1,2,\ldots,n except one. 
+ Your task is to find the missing number.
 */
 
 void math_solution(){
